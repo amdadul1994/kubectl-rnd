@@ -1,0 +1,2 @@
+# kubectl
+kubernaires yaml file
